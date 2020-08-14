@@ -1,0 +1,1 @@
+alert("This page is created by your friend Sandeep as a small surprise letter only for you on Friendship Day 30th July 2020")
